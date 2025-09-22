@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-public class HelloWorld {
-    public static void main(String[] args) {
-        System. out.println("Hello, World!");
-    }
-}
-=======
 package pr;
 
 public class helloWorld {
@@ -15,4 +8,4 @@ public class helloWorld {
 	}
 
 
->>>>>>> d81ed13 (added)
+//>>>>>>> d81ed13 (added)
